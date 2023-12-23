@@ -1,0 +1,2 @@
+numbers = input('Son kiriting:')
+

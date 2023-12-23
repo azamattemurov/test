@@ -1,0 +1,8 @@
+number = input()
+number = number.replace('4', 'a')
+number =number.replace('4', 'a')
+number = number.replace('a', '4')
+number = number.replace('a', '7')
+number = number.replace('7', 'b')
+number = number.replace('b', '4')
+print(number)
